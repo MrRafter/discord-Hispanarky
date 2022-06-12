@@ -1,0 +1,21 @@
+
+
+.button{
+    color: blue;
+    align-items: center;
+    font-family: sans-serif;
+
+}
+
+#buy{
+    color: red;
+}
+
+#buymenu{
+    position: absolute;
+    left: 45%;
+    top: 78%;
+    width: 130px;
+    height: 50px;
+    align-items: center;
+}
